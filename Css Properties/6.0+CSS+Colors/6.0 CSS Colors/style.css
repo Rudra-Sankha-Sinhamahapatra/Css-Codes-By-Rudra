@@ -1,0 +1,16 @@
+html{
+  background-color: cornflowerblue;
+}
+
+#hello{
+    background:aqua ;
+    color: cornsilk;
+    text-align: center;
+}
+
+#world{
+    background: darkorchid;
+    color:aliceblue;
+    text-align: center;
+
+}

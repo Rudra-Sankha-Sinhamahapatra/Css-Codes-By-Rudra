@@ -10,10 +10,10 @@ p{
   color:red;
   font-size:20px;
 }
-li[class="note"]{
+.note{
   font-size:20px;
 }
-li[id="id-selector-demo"]{
+#id-selector-demo{
   color: green;
 }
 li[value="4"]{

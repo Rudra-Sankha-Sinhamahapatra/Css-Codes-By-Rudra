@@ -1,0 +1,36 @@
+
+h1{
+    color: white;
+    background: black;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    width: 100%;
+    font-size: 2rem;
+  
+}
+p{
+    text-align: center;
+    color: white;
+    background: black;
+}
+img{
+    background-color: black;
+    border: 5px solid white;
+    width: 100%;
+    margin-top: 40px;
+    
+  
+
+}
+#main{
+    /* its my div tag id */
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+body{
+    background-color: black;
+}

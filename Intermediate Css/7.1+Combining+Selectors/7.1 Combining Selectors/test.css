@@ -1,0 +1,17 @@
+.box{
+    background: blue;
+    padding: 10px;
+}
+.box p{
+    color: #ffff00;
+}
+
+.inner-box{
+    background-color: red;
+    padding: 3px;
+
+}
+
+.inner-box p{
+    color: white;
+}

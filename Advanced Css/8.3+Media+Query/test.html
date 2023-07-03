@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Queries</title>
+    <style>
+        div{
+            background-color: blueviolet;
+            height: 200px;
+            width: 200px;
+        }
+        @media(max-width:600px){
+            div{
+                height: 100px;
+                width: 100px;
+            }
+            @media(max-width:600px) and (min-width:900px){
+                /* styles for screen less than 600px and greater than 900px*/
+            }
+            @media (orientation:landscape) {
+                /* Styles for landscape orientation */
+                
+            }
+        }
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>
